@@ -21,5 +21,12 @@ module.exports = [
       ['icons/', 'Icons'],
       ['elements/', 'Elements']
     ]
+  },
+  {
+    title: 'Sources',
+    collapsable: false,
+    children: [
+      'sources/instagram'
+    ]
   }
 ]
